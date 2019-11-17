@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =8
+let g:netrw_dirhist_8='/home/rob/.vim'
+let g:netrw_dirhist_7='/home/rob/development/cloud-in-control/cluster'
+let g:netrw_dirhist_6='/home/rob/development/cloud-in-control'
+let g:netrw_dirhist_5='/home/rob/development/cloud-in-control/cluster'
+let g:netrw_dirhist_4='/home/rob/development/cloud-in-control'
+let g:netrw_dirhist_3='/home/rob/development/cloud-in-control/cic'
+let g:netrw_dirhist_2='/home/rob/development/cloud-in-control'
+let g:netrw_dirhist_1='/home/rob/development/cloud-in-control/cic'
+let g:netrw_dirhist_0='/home/rob/development/cloud-in-control'
+let g:netrw_dirhist_9='/home/rob/development/cloud-in-control/cluster'
